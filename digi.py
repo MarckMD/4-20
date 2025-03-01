@@ -48,7 +48,7 @@ def cancel(update, context):
 
 def main():
     # Get the bot's token from the BotFather
-    bot_token = "AAF0A2GEsMRlBhDM3_nc_4GWaTOAGnFifko"
+    bot_token = "your bot token"
 
     # Create an Updater and pass it the bot's token
     updater = Updater(bot_token, use_context=True)
